@@ -1,9 +1,9 @@
-![](https://banners.beyondco.de/Laravel-Binance-API.png?theme=light&packageManager=composer+require&packageName=techtailor%2Flaravel-binance-api&pattern=architect&style=style_2&description=A+laravel+wrapper+for+the+Binance+API.&md=1&showWatermark=0&fontSize=100px&images=server)
+![](https://banners.beyondco.de/Laravel-Binance-API.png?theme=light&packageManager=composer+require&packageName=ash-rain%2Flaravel-binance-api&pattern=architect&style=style_2&description=A+laravel+wrapper+for+the+Binance+API.&md=1&showWatermark=0&fontSize=100px&images=server)
 
-[![GitHub release](https://img.shields.io/github/release/techtailor/laravel-binance-api.svg?include_prereleases&style=for-the-badge&&colorB=7E57C2)](https://packagist.org/packages/techtailor/laravel-binance-api)
-[![GitHub issues](https://img.shields.io/github/issues/TechTailor/Laravel-Binance-Api.svg?style=for-the-badge)](https://github.com/TechTailor/Laravel-Binance-Api/issues)
+[![GitHub release](https://img.shields.io/github/release/ash-rain/laravel-binance-api.svg?include_prereleases&style=for-the-badge&&colorB=7E57C2)](https://packagist.org/packages/ash-rain/laravel-binance-api)
+[![GitHub issues](https://img.shields.io/github/issues/ash-rain/Laravel-Binance-Api.svg?style=for-the-badge)](https://github.com/ash-rain/Laravel-Binance-Api/issues)
 [![Software License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge&&colorB=F27E40)](license.md)
-[![Total Downloads](https://img.shields.io/packagist/dt/techtailor/laravel-binance-api.svg?style=for-the-badge)](https://packagist.org/packages/techtailor/laravel-binance-api)
+[![Total Downloads](https://img.shields.io/packagist/dt/ash-rain/laravel-binance-api.svg?style=for-the-badge)](https://packagist.org/packages/ash-rain/laravel-binance-api)
 
 This package provides a Laravel Wrapper for the [Binance API](https://binance-docs.github.io/apidocs/spot/en) and allows you to easily communicate with it.
 
@@ -18,7 +18,7 @@ This package is in early development stage. It is not advisable to use it in a p
 You can install the package via composer:
 
 ```bash
-composer require techtailor/laravel-binance-api
+composer require ash-rain/laravel-binance-api
 ```
 
 You can publish the config file with:
