@@ -1,5 +1,5 @@
 {
-    "name": "techtailor/laravel-binance-api",
+    "name": "ash-rain/laravel-binance-api",
     "description": "A Laravel Wrapper for the Binance API.",
     "keywords": [
         "binance",
@@ -18,10 +18,10 @@
         }
     ],
     "require": {
-        "php": "^7.4|^8.0",
+        "php": "^7.4",
         "illuminate/contracts": "^8",
-        "illuminate/http": "^7.0|^8.0",
-        "illuminate/support": "^7.0|^8.0",
+        "illuminate/http": "^7.0",
+        "illuminate/support": "^7.0",
         "spatie/laravel-package-tools": "^1.9"
     },
     "require-dev": {
