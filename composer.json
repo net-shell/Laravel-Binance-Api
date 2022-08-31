@@ -15,6 +15,12 @@
             "email": "hello@moinuddin.info",
             "homepage": "https://moinuddin.info",
             "role": "Developer"
+        },
+        {
+            "name": "Boyan Balkanski",
+            "email": "boyan@balkanski.tech",
+            "homepage": "https://net-shell.org",
+            "role": "Developer"
         }
     ],
     "require": {
